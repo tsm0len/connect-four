@@ -1,0 +1,13 @@
+.board {
+    display: flex;
+}
+.row {
+    width: calc(100vw/7);
+    aspect-ratio: 1;
+    border-radius: 100%;
+    background-color: brown;
+    text-align: center;
+}
+.column {
+    background-color: aquamarine;
+}
